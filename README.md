@@ -1,8 +1,11 @@
 ### Hi there 👋, I'm Subodh Kumar Singh 
 
 # 💫 About Me:
-## About Me :<br>I am an aspiring Full Stack Developer  from India.<br>- ⚡ In my free time, I read tech articles<br>- 🌱 I’m currently learning Web Development<br>- 👯 I will be happy to collaborate on Web Development Projects<br>- 👨‍💻 All of my projects are available at **[here](https://github.com/SubodhSingh8543?tab=repositories)**<br>- 📫 How to reach me subodhsingh8543@gmail.com<br><br>
-
+I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 👯 I will be happy to collaborate on **Web Development Projects**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/SubodhSingh8543?tab=repositories)**
+- 📫 How to reach me **subodhsingh8543@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subodh-kumar-singh-1b73a2237) 
