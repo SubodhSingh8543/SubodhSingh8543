@@ -6,7 +6,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/SubodhSingh8543?tab=repositories)**
 - 📫 How to reach me **subodhsingh8543@gmail.com**
-- 🌐 **[Portfolio](SubodhSingh8543.github.io)**
+- 🌐 **[Portfolio](https://subodhsingh8543.github.io/)**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subodh-kumar-singh-1b73a2237) 
