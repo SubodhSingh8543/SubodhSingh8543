@@ -6,7 +6,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/SubodhSingh8543?tab=repositories)**
-- 🌐 **[Portfolio](https://subodhsingh8543.github.io)**
+- 🌐 **[Portfolio](https://subodhsingh8543)**
 - 📫 How to reach me **subodhsingh8543@gmail.com**
 
 
